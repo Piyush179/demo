@@ -493,8 +493,8 @@ a:focus {
 }
 
 .layout_padding {
-    padding-top: 90px;
-    padding-bottom: 0px;
+    padding-top: 60px;
+    padding-bottom: 65px;
     margin-top: 75px !important;
 }
 
@@ -1400,7 +1400,7 @@ section .social_icons {
 
 .right_blog_top {
     float: right;
-    margin-right: 210px;
+    margin-right: 140px;
     box-shadow: -35px 30px 0 0 #fff;
     margin-top: 90px;
     transition: ease all 0.5s;
@@ -2096,19 +2096,19 @@ form#commant_form div.field textarea.custom_field {
 
 footer {
     background-color: #fff;
-    padding: 0 115px; 
+    /* padding: 0 115px;  */
 }
 
 footer .container-fluid {
     background: #2d2d2d;
     min-height: 455px;
-    border-radius: 500px;
-    margin-bottom: 35px;
+    /* border-radius: 500px; */
+    /* margin-bottom: 35px; */
 }
 
 .footer_top {
-    padding-top: 90px;
-    padding-bottom: 70px;
+    padding-top: 45px;
+    padding-bottom: 50px;
 }
 
 .f_logo {
@@ -2414,8 +2414,8 @@ ul.social_icon {
 
 .cpy {
     background: #fe5f50;
-    min-height: 185px;
-    padding: 50px 0;
+    min-height: 160px;
+    padding: 25px 0;
 }
 
 .cpy p {
